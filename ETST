@@ -1,28 +1,182 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅  DEUTSCHLAND ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅  DEUTSCHLAND ▅ ▄ ▂ ▁
 http://liv3e.click:80/4587917767/4587917767/58044
-#EXTINF:-1 tvg-id="ZDF" tvg-name="ᴰᴱ ZDF HD." tvg-logo="https://laredocordcutters.com/logos/tiv2/zdf.png" group-title="Germany",ᴰᴱ ZDF HD.
-http://liv3e.click:80/4587917767/4587917767/9536
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RTL Passion FHD" tvg-logo="" group-title="Germany",ᴰᴱ RTL Passion FHD
-http://liv3e.click:80/4587917767/4587917767/84919
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ᴰᴱ ProSieben Maxx FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/prosiebenmaxx.png" group-title="Germany",ᴰᴱ ProSieben Maxx FHD
-http://liv3e.click:80/4587917767/4587917767/9529
-#EXTINF:-1 tvg-id="RTL" tvg-name="ᴰᴱ RTL FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtl.png" group-title="Germany",ᴰᴱ RTL FHD
-http://liv3e.click:80/4587917767/4587917767/9528
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ ProSieven FHD*" tvg-logo="" group-title="Germany",ᴰᴱ ProSieven FHD*
-http://liv3e.click:80/4587917767/4587917767/69755
-#EXTINF:-1 tvg-id="RTL 2" tvg-name="ᴰᴱ RTL 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtl2.png" group-title="Germany",ᴰᴱ RTL 2 FHD
-http://liv3e.click:80/4587917767/4587917767/9526
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="ᴰᴱ Nitro FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtlnitro.png" group-title="Germany",ᴰᴱ Nitro FHD
-http://liv3e.click:80/4587917767/4587917767/9525
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="ᴰᴱ RTL Plus HD" tvg-logo="" group-title="Germany",ᴰᴱ RTL Plus HD
-http://liv3e.click:80/4587917767/4587917767/69729
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="ᴰᴱ Sixx FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/sixxhd.png" group-title="Germany",ᴰᴱ Sixx FHD
-http://liv3e.click:80/4587917767/4587917767/9520
-#EXTINF:-1 tvg-id="ARTE" tvg-name="ᴰᴱ Arte FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/artehd.png" group-title="Germany",ᴰᴱ Arte FHD
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/daserste.png" group-title="Germany",ᴰᴱ Das Erste HD
+http://liv3e.click:80/4587917767/4587917767/9537
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/artehd.png" group-title="Germany",ᴰᴱ Arte FHD
 http://liv3e.click:80/4587917767/4587917767/9522
+#EXTINF:-1 tvg-id="3sat" tvg-name="3 Sat HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/3satdehd.png" group-title="Germany",ᴰᴱ 3 Sat HD
+http://liv3e.click:80/4587917767/4587917767/9521
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF HD." tvg-logo="https://laredocordcutters.com/logos/tiv2/zdf.png" group-title="Germany",ᴰᴱ ZDF HD.
+http://liv3e.click:80/4587917767/4587917767/9536
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtl.png" group-title="Germany",ᴰᴱ RTL FHD
+http://liv3e.click:80/4587917767/4587917767/9528
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rtl2.png" group-title="Germany",ᴰᴱ RTL 2 FHD
+http://liv3e.click:80/4587917767/4587917767/9526
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/sixxhd.png" group-title="Germany",ᴰᴱ Sixx FHD
+http://liv3e.click:80/4587917767/4587917767/9520
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro 7" tvg-logo="https://cdn.pixabay.com/photo/2016/03/19/17/55/pro7-1267090_960_720.png" group-title="Germany",ᴰᴱ Pro 7
+http://liv3e.click:80/4587917767/4587917767/13244
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/prosiebenmaxx.png" group-title="Germany",ᴰᴱ ProSieben Maxx FHD
+http://liv3e.click:80/4587917767/4587917767/9529
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/sat1.png" group-title="Germany",ᴰᴱ Sat 1 FHD
+http://liv3e.click:80/4587917767/4587917767/9533
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat 1 Gold FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sat 1 Gold FHD
+http://liv3e.click:80/4587917767/4587917767/69751
+#EXTINF:-1 tvg-id="" tvg-name="Vox FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/vox.png" group-title="Germany",ᴰᴱ Vox FHD
+http://liv3e.click:80/4587917767/4587917767/9534
+#EXTINF:-1 tvg-id="vox.de" tvg-name="Vox HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/vox.png" group-title="Germany",ᴰᴱ Vox HD
+http://liv3e.click:80/4587917767/4587917767/85821
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix HD°" tvg-logo="" group-title="Germany",ᴰᴱ Phoenix HD°
+http://liv3e.click:80/4587917767/4587917767/73494
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel Eins FHD" tvg-logo="" group-title="Germany",ᴰᴱ Kabel Eins FHD
+http://liv3e.click:80/4587917767/4587917767/69762
+#EXTINF:-1 tvg-id="Anixe HD" tvg-name="Anixe HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/anixehd.png" group-title="Germany",ᴰᴱ Anixe HD
+http://liv3e.click:80/4587917767/4587917767/9508
+#EXTINF:-1 tvg-id="DMAX" tvg-name="Dmax FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/dmaxhd.png" group-title="Germany",ᴰᴱ Dmax FHD
+http://liv3e.click:80/4587917767/4587917767/9512
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ SPORT DE  ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ SPORT DE  ▅ ▄ ▂ ▁
+http://liv3e.click:80/4587917767/4587917767/58048
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sport News FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportnewshd.png" group-title="Germany",ᴰᴱ Sky Sport News FHD
+http://liv3e.click:80/4587917767/4587917767/67235
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sport 1 2K" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportnewshd.png" group-title="Germany",ᴰᴱ Sky Sport 1 2K
+http://liv3e.click:80/4587917767/4587917767/67227
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport1hd-phibruspel.png" group-title="Germany",ᴰᴱ Sky Sport 1 FHD
+http://liv3e.click:80/4587917767/4587917767/67237
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 2 2K" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 2K
+http://liv3e.click:80/4587917767/4587917767/67225
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 FHD
+http://liv3e.click:80/4587917767/4587917767/69739
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 HD*
+http://liv3e.click:80/4587917767/4587917767/67224
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 FHD" tvg-logo="" group-title="Germany",ᴰᴱ DAZN Bar 1 FHD
+http://liv3e.click:80/4587917767/4587917767/69732
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 2K" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082018/untitled-1_67.png" group-title="Germany",ᴰᴱ DAZN Bar 2 2K
+http://liv3e.click:80/4587917767/4587917767/54648
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Bundesliga 1 FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga1hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 1 FHD*
+http://liv3e.click:80/4587917767/4587917767/67259
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 FHD *" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga2hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 2 FHD *
+http://liv3e.click:80/4587917767/4587917767/76350
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Bundesliga 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga2hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 2 HD*
+http://liv3e.click:80/4587917767/4587917767/67258
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD" tvg-name="Sky Bundesliga 3 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga3hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 3 HD*
+http://liv3e.click:80/4587917767/4587917767/67257
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD" tvg-name="Sky Bundesliga 4 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga4hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 4 HD*
+http://liv3e.click:80/4587917767/4587917767/67256
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 4 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 4 HD
+http://liv3e.click:80/4587917767/4587917767/78092
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Bundesliga 5 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga5hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 5 HD*
+http://liv3e.click:80/4587917767/4587917767/67255
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 5 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 5 HD
+http://liv3e.click:80/4587917767/4587917767/78091
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Bundesliga 6 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga6hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 6 HD*
+http://liv3e.click:80/4587917767/4587917767/67254
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 6 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 6 HD
+http://liv3e.click:80/4587917767/4587917767/78090
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Bundesliga 7 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga7hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 7 HD*
+http://liv3e.click:80/4587917767/4587917767/67253
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 7" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 7
+http://liv3e.click:80/4587917767/4587917767/78089
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Bundesliga 8 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga8hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 8 HD*
+http://liv3e.click:80/4587917767/4587917767/67252
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 8" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 8
+http://liv3e.click:80/4587917767/4587917767/78088
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Bundesliga 9 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga9hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 9 HD*
+http://liv3e.click:80/4587917767/4587917767/67251
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 9" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 9
+http://liv3e.click:80/4587917767/4587917767/78087
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Bundesliga 10 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga10hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 10 HD*
+http://liv3e.click:80/4587917767/4587917767/67250
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 1 FHD
+http://liv3e.click:80/4587917767/4587917767/85823
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/eurosport2hd.png" group-title="Germany",ᴰᴱ Eurosport 2 FHD*
+http://liv3e.click:80/4587917767/4587917767/67223
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 XTRA FHD" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 2 XTRA FHD
+http://liv3e.click:80/4587917767/4587917767/85827
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/motorvisiontv.png" group-title="Germany",ᴰᴱ Motorvision HD
+http://liv3e.click:80/4587917767/4587917767/67203
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="My Sport 1 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/sport1hd-wispelutri.png" group-title="Germany",ᴰᴱ My Sport 1 HD*
+http://liv3e.click:80/4587917767/4587917767/67222
+#EXTINF:-1 tvg-id="" tvg-name="ORF Sport+" tvg-logo="" group-title="Germany",ᴰᴱ ORF Sport+
+http://liv3e.click:80/4587917767/4587917767/85830
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 3 HD
+http://liv3e.click:80/4587917767/4587917767/84666
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 4 HD
+http://liv3e.click:80/4587917767/4587917767/84667
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 5 HD
+http://liv3e.click:80/4587917767/4587917767/84668
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 6 HD
+http://liv3e.click:80/4587917767/4587917767/84669
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 7 HD
+http://liv3e.click:80/4587917767/4587917767/84670
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 8 HD
+http://liv3e.click:80/4587917767/4587917767/84671
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 11 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 11 HD
+http://liv3e.click:80/4587917767/4587917767/84672
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 12 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 12 HD
+http://liv3e.click:80/4587917767/4587917767/84673
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 13 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 13 HD
+http://liv3e.click:80/4587917767/4587917767/84674
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 14 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 14 HD
+http://liv3e.click:80/4587917767/4587917767/84675
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sport Austria 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportaustriahd.png" group-title="Germany",ᴰᴱ Sky Sport Austria 1 FHD
+http://liv3e.click:80/4587917767/4587917767/67236
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sport Austria 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportaustria.png" group-title="Germany",ᴰᴱ Sky Sport Austria 2 FHD
+http://liv3e.click:80/4587917767/4587917767/67219
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 3 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport Austria 3 FHD
+http://liv3e.click:80/4587917767/4587917767/85828
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 4 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport Austria 4 FHD
+http://liv3e.click:80/4587917767/4587917767/85829
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/arenasport1hd.png" group-title="Germany",ᴰᴱ Telekom Sport 1 HD*
+http://liv3e.click:80/4587917767/4587917767/67221
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/arenasport2hd.png" group-title="Germany",ᴰᴱ Telekom Sport 2 HD*
+http://liv3e.click:80/4587917767/4587917767/67220
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sport Digital FHD
+http://liv3e.click:80/4587917767/4587917767/69738
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ DOKUMENTAR ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ DOKUMENTAR ▅ ▄ ▂ ▁
+http://liv3e.click:80/4587917767/4587917767/58049
+#EXTINF:-1 tvg-id="HISTORY HD" tvg-name="ᴰᴱ History HD *" tvg-logo="http://163.172.48.123/channel-logo/DU/86_sky_logo_historyhd_w.png" group-title="Germany",ᴰᴱ History HD *
+http://liv3e.click:80/4587917767/4587917767/69770
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="ᴰᴱ Discovery FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/discoveryhd.png" group-title="Germany",ᴰᴱ Discovery FHD
+http://liv3e.click:80/4587917767/4587917767/67244
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ᴰᴱ E! FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/eentertainment.png" group-title="Germany",ᴰᴱ E! FHD
+http://liv3e.click:80/4587917767/4587917767/67207
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="ᴰᴱ Nat Geo FHD" tvg-logo="http://163.172.48.123/channel-logo/MIX/natgeo%20hd.png" group-title="Germany",ᴰᴱ Nat Geo FHD
+http://liv3e.click:80/4587917767/4587917767/67534
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="ᴰᴱ Nat Geo Wild FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Nat-Geo-Wild.png" group-title="Germany",ᴰᴱ Nat Geo Wild FHD
+http://liv3e.click:80/4587917767/4587917767/67535
+#EXTINF:-1 tvg-id="TLC" tvg-name="ᴰᴱ TLC FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tlchd.png" group-title="Germany",ᴰᴱ TLC FHD
+http://liv3e.click:80/4587917767/4587917767/9509
 #EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="ᴰᴱ Kabel Eins Doku HD" tvg-logo="http://163.172.48.123/channel-logo/DU/kabel-doku.png" group-title="Germany",ᴰᴱ Kabel Eins Doku HD
 http://liv3e.click:80/4587917767/4587917767/69756
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ KINDER ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ KINDER ▅ ▄ ▂ ▁
+http://liv3e.click:80/4587917767/4587917767/58051
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="ᴰᴱ Super RTL FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/superrtl.png" group-title="Germany",ᴰᴱ Super RTL FHD
+http://liv3e.click:80/4587917767/4587917767/9523
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="ᴰᴱ Boomerang HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/boomerang.png" group-title="Germany",ᴰᴱ Boomerang HD
+http://liv3e.click:80/4587917767/4587917767/67199
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="ᴰᴱ Cartoon Network*" tvg-logo="https://laredocordcutters.com/logos/tiv2/cartoonnetwork.png" group-title="Germany",ᴰᴱ Cartoon Network*
+http://liv3e.click:80/4587917767/4587917767/67201
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ᴰᴱ Disney Junior FHD" tvg-logo="" group-title="Germany",ᴰᴱ Disney Junior FHD
+http://liv3e.click:80/4587917767/4587917767/67243
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ᴰᴱ Disney Channel FHD" tvg-logo="" group-title="Germany",ᴰᴱ Disney Channel FHD
+http://liv3e.click:80/4587917767/4587917767/67200
+#EXTINF:-1 tvg-id="KiKa" tvg-name="ᴰᴱ Kika HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/kikahd.png" group-title="Germany",ᴰᴱ Kika HD
+http://liv3e.click:80/4587917767/4587917767/9516
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Toggo Plus" tvg-logo="" group-title="Germany",ᴰᴱ Toggo Plus
+http://liv3e.click:80/4587917767/4587917767/85831
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="ᴰᴱ Comedy Central / Viva" tvg-logo="https://laredocordcutters.com/logos/tiv2/comedycentral_viva.png" group-title="Germany",ᴰᴱ Comedy Central / Viva
+http://liv3e.click:80/4587917767/4587917767/9489
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ NACHRICHTEN ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ NACHRICHTEN ▅ ▄ ▂ ▁
+http://liv3e.click:80/4587917767/4587917767/58050
+#EXTINF:-1 tvg-id="N-TV" tvg-name="ᴰᴱ Ntv HD" tvg-logo="" group-title="Germany",ᴰᴱ Ntv HD
+http://liv3e.click:80/4587917767/4587917767/9514
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ N24 Doku HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/n24hd.png" group-title="Germany",ᴰᴱ N24 Doku HD
+http://liv3e.click:80/4587917767/4587917767/9513
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Welt HD°" tvg-logo="" group-title="Germany",ᴰᴱ Welt HD°
+http://liv3e.click:80/4587917767/4587917767/73444
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ ZDF Info HD°" tvg-logo="" group-title="Germany",ᴰᴱ ZDF Info HD°
+http://liv3e.click:80/4587917767/4587917767/73439
 #EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Drf1" tvg-logo="https://laredocordcutters.com/logos/tiv2/drf1de.png" group-title="Germany",ᴰᴱ Drf1
 http://liv3e.click:80/4587917767/4587917767/9477
 #EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Intv FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/intv.png" group-title="Germany",ᴰᴱ Intv FHD
@@ -35,33 +189,26 @@ http://liv3e.click:80/4587917767/4587917767/9518
 http://liv3e.click:80/4587917767/4587917767/69766
 #EXTINF:-1 tvg-id="NDR" tvg-name="ᴰᴱ NDR HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/ndr.png" group-title="Germany",ᴰᴱ NDR HD
 http://liv3e.click:80/4587917767/4587917767/9519
-#EXTINF:-1 tvg-id="kabel eins" tvg-name="ᴰᴱ Kabel Eins FHD" tvg-logo="" group-title="Germany",ᴰᴱ Kabel Eins FHD
-http://liv3e.click:80/4587917767/4587917767/69762
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Vox FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/vox.png" group-title="Germany",ᴰᴱ Vox FHD
-http://liv3e.click:80/4587917767/4587917767/9534
-#EXTINF:-1 tvg-id="vox.de" tvg-name="ᴰᴱ Vox HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/vox.png" group-title="Germany",ᴰᴱ Vox HD
-http://liv3e.click:80/4587917767/4587917767/85821
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="ᴰᴱ Das Erste HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/daserste.png" group-title="Germany",ᴰᴱ Das Erste HD
-http://liv3e.click:80/4587917767/4587917767/9537
-#EXTINF:-1 tvg-id="Pro7" tvg-name="ᴰᴱ Pro 7" tvg-logo="https://cdn.pixabay.com/photo/2016/03/19/17/55/pro7-1267090_960_720.png" group-title="Germany",ᴰᴱ Pro 7
-http://liv3e.click:80/4587917767/4587917767/13244
-#EXTINF:-1 tvg-id="Pro7 FUN" tvg-name="ᴰᴱ Pro7 Fun" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/12/ProSieben-Fun.jpg" group-title="Germany",ᴰᴱ Pro7 Fun
-http://liv3e.click:80/4587917767/4587917767/9530
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Okto HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/oktotvat.png" group-title="Germany",ᴰᴱ Okto HD
-http://liv3e.click:80/4587917767/4587917767/9484
-#EXTINF:-1 tvg-id="ONE" tvg-name="ᴰᴱ One 1 HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/onehd.png" group-title="Germany",ᴰᴱ One 1 HD
-http://liv3e.click:80/4587917767/4587917767/9510
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ UNTERHALTUNG ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ UNTERHALTUNG ▅ ▄ ▂ ▁
+http://liv3e.click:80/4587917767/4587917767/58047
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="ᴰᴱ Syfy FHD" tvg-logo="" group-title="Germany",ᴰᴱ Syfy FHD
+http://liv3e.click:80/4587917767/4587917767/69736
+#EXTINF:-1 tvg-id="skycinema.de" tvg-name="ᴰᴱ TNT Serir FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skycinemahd.png" group-title="Germany",ᴰᴱ TNT Serir FHD
+http://liv3e.click:80/4587917767/4587917767/67234
 #EXTINF:-1 tvg-id="fox.de" tvg-name="ᴰᴱ Fox FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/foxhd.png" group-title="Germany",ᴰᴱ Fox FHD
 http://liv3e.click:80/4587917767/4587917767/67241
-#EXTINF:-1 tvg-id="Anixe HD" tvg-name="ᴰᴱ Anixe HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/anixehd.png" group-title="Germany",ᴰᴱ Anixe HD
-http://liv3e.click:80/4587917767/4587917767/9508
-#EXTINF:-1 tvg-id="N-TV" tvg-name="ᴰᴱ Ntv HD" tvg-logo="" group-title="Germany",ᴰᴱ Ntv HD
-http://liv3e.click:80/4587917767/4587917767/9514
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Anixe HD Plus" tvg-logo="" group-title="Germany",ᴰᴱ Anixe HD Plus
-http://liv3e.click:80/4587917767/4587917767/9481
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ U1 Tirol/ Tiroler Heimat HD°" tvg-logo="" group-title="Germany",ᴰᴱ U1 Tirol/ Tiroler Heimat HD°
+http://liv3e.click:80/4587917767/4587917767/73448
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="ᴰᴱ Crime + Investigation HD" tvg-logo="" group-title="Germany",ᴰᴱ Crime + Investigation HD
+http://liv3e.click:80/4587917767/4587917767/9524
+#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RTL Passion FHD" tvg-logo="" group-title="Germany",ᴰᴱ RTL Passion FHD
+http://liv3e.click:80/4587917767/4587917767/84919
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="ᴰᴱ Sky Romance HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/romancetvhd.png" group-title="Germany",ᴰᴱ Sky Romance HD
+http://liv3e.click:80/4587917767/4587917767/9473
+#EXTINF:-1 tvg-id="Zee One" tvg-name="ᴰᴱ Zee One HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/zeeonehd.png" group-title="Germany",ᴰᴱ Zee One HD
+http://liv3e.click:80/4587917767/4587917767/9515
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ KINO ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ KINO ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58045
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="ᴰᴱ Sky Cinema Action FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skycinemaactionhd.png" group-title="Germany",ᴰᴱ Sky Cinema Action FHD
+http://liv3e.click:80/4587917767/4587917767/58045#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="ᴰᴱ Sky Cinema Action FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skycinemaactionhd.png" group-title="Germany",ᴰᴱ Sky Cinema Action FHD
 http://liv3e.click:80/4587917767/4587917767/67262
 #EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Cinema Action Buddies FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Cinema Action Buddies FHD
 http://liv3e.click:80/4587917767/4587917767/85832
@@ -81,8 +228,6 @@ http://liv3e.click:80/4587917767/4587917767/67242
 http://liv3e.click:80/4587917767/4587917767/67248
 #EXTINF:-1 tvg-id="skycinema.de" tvg-name="ᴰᴱ Sky Cinema Hits FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skycinemahitshd.png" group-title="Germany",ᴰᴱ Sky Cinema Hits FHD
 http://liv3e.click:80/4587917767/4587917767/67240
-#EXTINF:-1 tvg-id="skycinema.de" tvg-name="ᴰᴱ TNT Serir FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skycinemahd.png" group-title="Germany",ᴰᴱ TNT Serir FHD
-http://liv3e.click:80/4587917767/4587917767/67234
 #EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="ᴰᴱ Sky Cinema Atlantic FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skyatlantic-phibruspel.png" group-title="Germany",ᴰᴱ Sky Cinema Atlantic FHD
 http://liv3e.click:80/4587917767/4587917767/69748
 #EXTINF:-1 tvg-id="skynostalgie.de" tvg-name="ᴰᴱ Sky Cinema Nostalgie HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Cinema Nostalgie HD
@@ -91,7 +236,7 @@ http://liv3e.click:80/4587917767/4587917767/69740
 http://liv3e.click:80/4587917767/4587917767/67210
 #EXTINF:-1 tvg-id="tntfilm.de" tvg-name="ᴰᴱ TNT Film FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tntfilm.png" group-title="Germany",ᴰᴱ TNT Film FHD
 http://liv3e.click:80/4587917767/4587917767/67209
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ PPV ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ PPV ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ SKY SELECT ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ SKY SELECT ▅ ▄ ▂ ▁
 http://liv3e.click:80/4587917767/4587917767/58046
 #EXTINF:-1 tvg-id="skyselect1.de" tvg-name="ᴰᴱ Sky Select 1 FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skyselecthd-wispelutri.png" group-title="Germany",ᴰᴱ Sky Select 1 FHD*
 http://liv3e.click:80/4587917767/4587917767/67233
@@ -107,386 +252,9 @@ http://liv3e.click:80/4587917767/4587917767/67229
 http://liv3e.click:80/4587917767/4587917767/67228
 #EXTINF:-1 tvg-id="skyselect.de" tvg-name="ᴰᴱ Sky Select Ultra FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skyselecthd-wispelutri.png" group-title="Germany",ᴰᴱ Sky Select Ultra FHD*
 http://liv3e.click:80/4587917767/4587917767/67238
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ UNTERHALTUNG ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ UNTERHALTUNG ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58047
-#EXTINF:-1 tvg-id="ZDF neo" tvg-name="ᴰᴱ ZDF Neo HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/zdfneo.png" group-title="Germany",ᴰᴱ ZDF Neo HD
-http://liv3e.click:80/4587917767/4587917767/9535
-#EXTINF:-1 tvg-id="TLC" tvg-name="ᴰᴱ TLC FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/tlchd.png" group-title="Germany",ᴰᴱ TLC FHD
-http://liv3e.click:80/4587917767/4587917767/9509
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="ᴰᴱ Syfy FHD" tvg-logo="" group-title="Germany",ᴰᴱ Syfy FHD
-http://liv3e.click:80/4587917767/4587917767/69736
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Krimi*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skykrimi-wispelutri.png" group-title="Germany",ᴰᴱ Sky Krimi*
-http://liv3e.click:80/4587917767/4587917767/67239
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Axn FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/axn.png" group-title="Germany",ᴰᴱ Axn FHD
-http://liv3e.click:80/4587917767/4587917767/9472
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Astro" tvg-logo="https://laredocordcutters.com/logos/tiv2/astrotv.png" group-title="Germany",ᴰᴱ Astro
-http://liv3e.click:80/4587917767/4587917767/9471
-#EXTINF:-1 tvg-id="SAT.1" tvg-name="ᴰᴱ Sat 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/sat1.png" group-title="Germany",ᴰᴱ Sat 1 FHD
-http://liv3e.click:80/4587917767/4587917767/9533
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="ᴰᴱ Sat 1 Gold FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sat 1 Gold FHD
-http://liv3e.click:80/4587917767/4587917767/69751
-#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="ᴰᴱ Crime + Investigation HD" tvg-logo="" group-title="Germany",ᴰᴱ Crime + Investigation HD
-http://liv3e.click:80/4587917767/4587917767/9524
-#EXTINF:-1 tvg-id="3sat" tvg-name="ᴰᴱ 3 Sat HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/3satdehd.png" group-title="Germany",ᴰᴱ 3 Sat HD
-http://liv3e.click:80/4587917767/4587917767/9521
-#EXTINF:-1 tvg-id="RTL Passion" tvg-name="ᴰᴱ Super RTL FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/superrtl.png" group-title="Germany",ᴰᴱ Super RTL FHD
-http://liv3e.click:80/4587917767/4587917767/9523
-#EXTINF:-1 tvg-id="Zee One" tvg-name="ᴰᴱ Zee One HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/zeeonehd.png" group-title="Germany",ᴰᴱ Zee One HD
-http://liv3e.click:80/4587917767/4587917767/9515
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="ᴰᴱ Comedy Central / Viva" tvg-logo="https://laredocordcutters.com/logos/tiv2/comedycentral_viva.png" group-title="Germany",ᴰᴱ Comedy Central / Viva
-http://liv3e.click:80/4587917767/4587917767/9489
-#EXTINF:-1 tvg-id="Romance TV" tvg-name="ᴰᴱ Sky Romance HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/romancetvhd.png" group-title="Germany",ᴰᴱ Sky Romance HD
-http://liv3e.click:80/4587917767/4587917767/9473
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ SPORT DE  ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ SPORT DE  ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58048
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ DAZN Bar 1 2K" tvg-logo="" group-title="Germany",ᴰᴱ DAZN Bar 1 2K
-http://liv3e.click:80/4587917767/4587917767/54647
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ DAZN Bar 1 FHD" tvg-logo="" group-title="Germany",ᴰᴱ DAZN Bar 1 FHD
-http://liv3e.click:80/4587917767/4587917767/69732
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ DAZN Bar 2 2K" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082018/untitled-1_67.png" group-title="Germany",ᴰᴱ DAZN Bar 2 2K
-http://liv3e.click:80/4587917767/4587917767/54648
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ DAZN Bar FHD" tvg-logo="" group-title="Germany",ᴰᴱ DAZN Bar FHD
-http://liv3e.click:80/4587917767/4587917767/85824
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Eurosport 1 2K" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 1 2K
-http://liv3e.click:80/4587917767/4587917767/85825
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Eurosport 1 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 1 FHD
-http://liv3e.click:80/4587917767/4587917767/85823
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Eurosport 2 2K" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 2 2K
-http://liv3e.click:80/4587917767/4587917767/85826
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="ᴰᴱ Eurosport 2 FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/eurosport2hd.png" group-title="Germany",ᴰᴱ Eurosport 2 FHD*
-http://liv3e.click:80/4587917767/4587917767/67223
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Eurosport 2 XTRA FHD" tvg-logo="" group-title="Germany",ᴰᴱ Eurosport 2 XTRA FHD
-http://liv3e.click:80/4587917767/4587917767/85827
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ ORF Sport+" tvg-logo="" group-title="Germany",ᴰᴱ ORF Sport+
-http://liv3e.click:80/4587917767/4587917767/85830
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="ᴰᴱ Sky Sport News FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportnewshd.png" group-title="Germany",ᴰᴱ Sky Sport News FHD
-http://liv3e.click:80/4587917767/4587917767/67235
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="ᴰᴱ Sky Sport 1 2K" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportnewshd.png" group-title="Germany",ᴰᴱ Sky Sport 1 2K
-http://liv3e.click:80/4587917767/4587917767/67227
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="ᴰᴱ Sky Sport 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport1hd-phibruspel.png" group-title="Germany",ᴰᴱ Sky Sport 1 FHD
-http://liv3e.click:80/4587917767/4587917767/67237
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="ᴰᴱ Sky Sport 2 2K" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 2K
-http://liv3e.click:80/4587917767/4587917767/67225
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="ᴰᴱ Sky Sport 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 FHD
-http://liv3e.click:80/4587917767/4587917767/69739
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="ᴰᴱ Sky Sport 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysport2.png" group-title="Germany",ᴰᴱ Sky Sport 2 HD*
-http://liv3e.click:80/4587917767/4587917767/67224
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 3 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 3 HD
-http://liv3e.click:80/4587917767/4587917767/84666
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 4 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 4 HD
-http://liv3e.click:80/4587917767/4587917767/84667
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 5 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 5 HD
-http://liv3e.click:80/4587917767/4587917767/84668
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 6 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 6 HD
-http://liv3e.click:80/4587917767/4587917767/84669
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 7 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 7 HD
-http://liv3e.click:80/4587917767/4587917767/84670
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 8 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 8 HD
-http://liv3e.click:80/4587917767/4587917767/84671
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 11 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 11 HD
-http://liv3e.click:80/4587917767/4587917767/84672
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 12 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 12 HD
-http://liv3e.click:80/4587917767/4587917767/84673
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 13 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 13 HD
-http://liv3e.click:80/4587917767/4587917767/84674
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport 14 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport 14 HD
-http://liv3e.click:80/4587917767/4587917767/84675
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="ᴰᴱ Sky Bundesliga 1 FHD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga1hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 1 FHD*
-http://liv3e.click:80/4587917767/4587917767/67259
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 1 FHD *" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga1hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 1 FHD *
-http://liv3e.click:80/4587917767/4587917767/76349
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 2 FHD *" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga2hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 2 FHD *
-http://liv3e.click:80/4587917767/4587917767/76350
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="ᴰᴱ Sky Bundesliga 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga2hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 2 HD*
-http://liv3e.click:80/4587917767/4587917767/67258
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 2 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 2 HD
-http://liv3e.click:80/4587917767/4587917767/78094
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD" tvg-name="ᴰᴱ Sky Bundesliga 3 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga3hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 3 HD*
-http://liv3e.click:80/4587917767/4587917767/67257
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 3 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 3 HD
-http://liv3e.click:80/4587917767/4587917767/78093
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD" tvg-name="ᴰᴱ Sky Bundesliga 4 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga4hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 4 HD*
-http://liv3e.click:80/4587917767/4587917767/67256
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 4 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 4 HD
-http://liv3e.click:80/4587917767/4587917767/78092
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="ᴰᴱ Sky Bundesliga 5 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga5hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 5 HD*
-http://liv3e.click:80/4587917767/4587917767/67255
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 5 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 5 HD
-http://liv3e.click:80/4587917767/4587917767/78091
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="ᴰᴱ Sky Bundesliga 6 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga6hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 6 HD*
-http://liv3e.click:80/4587917767/4587917767/67254
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 6 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 6 HD
-http://liv3e.click:80/4587917767/4587917767/78090
-#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="ᴰᴱ Sky Bundesliga 7 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga7hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 7 HD*
-http://liv3e.click:80/4587917767/4587917767/67253
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 7" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 7
-http://liv3e.click:80/4587917767/4587917767/78089
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="ᴰᴱ Sky Bundesliga 8 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga8hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 8 HD*
-http://liv3e.click:80/4587917767/4587917767/67252
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 8" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 8
-http://liv3e.click:80/4587917767/4587917767/78088
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="ᴰᴱ Sky Bundesliga 9 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga9hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 9 HD*
-http://liv3e.click:80/4587917767/4587917767/67251
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 9" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 9
-http://liv3e.click:80/4587917767/4587917767/78087
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 10" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 10
-http://liv3e.click:80/4587917767/4587917767/78086
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Bundesliga 10 HD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Bundesliga 10 HD
-http://liv3e.click:80/4587917767/4587917767/78085
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="ᴰᴱ Sky Bundesliga 10 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportbundesliga10hd.png" group-title="Germany",ᴰᴱ Sky Bundesliga 10 HD*
-http://liv3e.click:80/4587917767/4587917767/67250
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="ᴰᴱ Sky Sport Austria 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportaustriahd.png" group-title="Germany",ᴰᴱ Sky Sport Austria 1 FHD
-http://liv3e.click:80/4587917767/4587917767/67236
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="ᴰᴱ Sky Sport Austria 2 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/skysportaustria.png" group-title="Germany",ᴰᴱ Sky Sport Austria 2 FHD
-http://liv3e.click:80/4587917767/4587917767/67219
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport Austria 3 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport Austria 3 FHD
-http://liv3e.click:80/4587917767/4587917767/85828
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sky Sport Austria 4 FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sky Sport Austria 4 FHD
-http://liv3e.click:80/4587917767/4587917767/85829
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="ᴰᴱ My Sport 1 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/sport1hd-wispelutri.png" group-title="Germany",ᴰᴱ My Sport 1 HD*
-http://liv3e.click:80/4587917767/4587917767/67222
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Sport 1 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/arenasport1hd.png" group-title="Germany",ᴰᴱ Telekom Sport 1 HD*
-http://liv3e.click:80/4587917767/4587917767/67221
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Sport 2 HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/arenasport2hd.png" group-title="Germany",ᴰᴱ Telekom Sport 2 HD*
-http://liv3e.click:80/4587917767/4587917767/67220
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="ᴰᴱ Sport Digital FHD" tvg-logo="" group-title="Germany",ᴰᴱ Sport Digital FHD
-http://liv3e.click:80/4587917767/4587917767/69738
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ KULTUR ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ KULTUR ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58049
-#EXTINF:-1 tvg-id="HISTORY HD" tvg-name="ᴰᴱ History HD *" tvg-logo="http://163.172.48.123/channel-logo/DU/86_sky_logo_historyhd_w.png" group-title="Germany",ᴰᴱ History HD *
-http://liv3e.click:80/4587917767/4587917767/69770
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="ᴰᴱ Discovery FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/discoveryhd.png" group-title="Germany",ᴰᴱ Discovery FHD
-http://liv3e.click:80/4587917767/4587917767/67244
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ᴰᴱ E! FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/eentertainment.png" group-title="Germany",ᴰᴱ E! FHD
-http://liv3e.click:80/4587917767/4587917767/67207
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="ᴰᴱ Motorvision HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/motorvisiontv.png" group-title="Germany",ᴰᴱ Motorvision HD
-http://liv3e.click:80/4587917767/4587917767/67203
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="ᴰᴱ Nat Geo FHD" tvg-logo="http://163.172.48.123/channel-logo/MIX/natgeo%20hd.png" group-title="Germany",ᴰᴱ Nat Geo FHD
-http://liv3e.click:80/4587917767/4587917767/67534
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="ᴰᴱ Nat Geo Wild FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Nat-Geo-Wild.png" group-title="Germany",ᴰᴱ Nat Geo Wild FHD
-http://liv3e.click:80/4587917767/4587917767/67535
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ᴰᴱ Animal Planet HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/AnimalPlanetHD.png" group-title="Germany",ᴰᴱ Animal Planet HD
-http://liv3e.click:80/4587917767/4587917767/18723
-#EXTINF:-1 tvg-id="DMAX" tvg-name="ᴰᴱ Dmax FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/dmaxhd.png" group-title="Germany",ᴰᴱ Dmax FHD
-http://liv3e.click:80/4587917767/4587917767/9512
-#EXTINF:-1 tvg-id="Planet" tvg-name="ᴰᴱ Planet FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/animalplanethd.png" group-title="Germany",ᴰᴱ Planet FHD
-http://liv3e.click:80/4587917767/4587917767/9475
-#EXTINF:-1 tvg-id="universal.de" tvg-name="ᴰᴱ Universal FHD" tvg-logo="" group-title="Germany",ᴰᴱ Universal FHD
-http://liv3e.click:80/4587917767/4587917767/69731
-#EXTINF:-1 tvg-id="universal.de" tvg-name="ᴰᴱ Universal HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/universalchannel.png" group-title="Germany",ᴰᴱ Universal HD*
-http://liv3e.click:80/4587917767/4587917767/67208
-#EXTINF:-1 tvg-id="aande.de" tvg-name="ᴰᴱ A&E HD*" tvg-logo="https://laredocordcutters.com/logos/tiv2/aehd.png" group-title="Germany",ᴰᴱ A&E HD*
-http://liv3e.click:80/4587917767/4587917767/67206
-#EXTINF:-1 tvg-id="Kabel eins Classics" tvg-name="ᴰᴱ Kabel Eins Classic FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/kabeleinsclassics.png" group-title="Germany",ᴰᴱ Kabel Eins Classic FHD
-http://liv3e.click:80/4587917767/4587917767/9511
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ NACHRICHTEN ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ NACHRICHTEN ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58050
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ P ROSIEBEN FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/rnf.png" group-title="Germany",ᴰᴱ P ROSIEBEN FHD
-http://liv3e.click:80/4587917767/4587917767/9506
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ N24 Doku HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/n24hd.png" group-title="Germany",ᴰᴱ N24 Doku HD
-http://liv3e.click:80/4587917767/4587917767/9513
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ KINDER ▅ ▄ ▂ ▁" tvg-logo="" group-title="Germany",▁ ▂ ▄ ▅ KINDER ▅ ▄ ▂ ▁
-http://liv3e.click:80/4587917767/4587917767/58051
-#EXTINF:-1 tvg-id="boomerang.de" tvg-name="ᴰᴱ Boomerang HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/boomerang.png" group-title="Germany",ᴰᴱ Boomerang HD
-http://liv3e.click:80/4587917767/4587917767/67199
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="ᴰᴱ Cartoon Network*" tvg-logo="https://laredocordcutters.com/logos/tiv2/cartoonnetwork.png" group-title="Germany",ᴰᴱ Cartoon Network*
-http://liv3e.click:80/4587917767/4587917767/67201
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ᴰᴱ Disney Junior FHD" tvg-logo="" group-title="Germany",ᴰᴱ Disney Junior FHD
-http://liv3e.click:80/4587917767/4587917767/67243
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ᴰᴱ Disney Channel FHD" tvg-logo="" group-title="Germany",ᴰᴱ Disney Channel FHD
-http://liv3e.click:80/4587917767/4587917767/67200
-#EXTINF:-1 tvg-id="KiKa" tvg-name="ᴰᴱ Kika HD" tvg-logo="https://laredocordcutters.com/logos/tiv2/kikahd.png" group-title="Germany",ᴰᴱ Kika HD
-http://liv3e.click:80/4587917767/4587917767/9516
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Toggo Plus" tvg-logo="" group-title="Germany",ᴰᴱ Toggo Plus
-http://liv3e.click:80/4587917767/4587917767/85831
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Alex Berlin HD°" tvg-logo="" group-title="Germany",ᴰᴱ Alex Berlin HD°
-http://liv3e.click:80/4587917767/4587917767/73582
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Allgäu TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Allgäu TV HD°
-http://liv3e.click:80/4587917767/4587917767/73581
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Alpha HD°" tvg-logo="" group-title="Germany",ᴰᴱ Alpha HD°
-http://liv3e.click:80/4587917767/4587917767/73580
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Arte HD°" tvg-logo="" group-title="Germany",ᴰᴱ Arte HD°
-http://liv3e.click:80/4587917767/4587917767/73579
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ BR HD°" tvg-logo="" group-title="Germany",ᴰᴱ BR HD°
-http://liv3e.click:80/4587917767/4587917767/73578
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Bibel TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Bibel TV HD°
-http://liv3e.click:80/4587917767/4587917767/73576
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Bibel TV Impuls HD°" tvg-logo="" group-title="Germany",ᴰᴱ Bibel TV Impuls HD°
-http://liv3e.click:80/4587917767/4587917767/73575
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Bibel TV Musik HD°" tvg-logo="" group-title="Germany",ᴰᴱ Bibel TV Musik HD°
-http://liv3e.click:80/4587917767/4587917767/73574
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Bundestag Kanal 1 HD°" tvg-logo="" group-title="Germany",ᴰᴱ Bundestag Kanal 1 HD°
-http://liv3e.click:80/4587917767/4587917767/73572
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Bundestag Kanal 2 HD°" tvg-logo="" group-title="Germany",ᴰᴱ Bundestag Kanal 2 HD°
-http://liv3e.click:80/4587917767/4587917767/73571
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ BW Family TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ BW Family TV HD°
-http://liv3e.click:80/4587917767/4587917767/73570
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Das Erste HD°" tvg-logo="" group-title="Germany",ᴰᴱ Das Erste HD°
-http://liv3e.click:80/4587917767/4587917767/73568
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Deutsche Welle TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Deutsche Welle TV HD°
-http://liv3e.click:80/4587917767/4587917767/73564
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Deutsches Musik HD°" tvg-logo="" group-title="Germany",ᴰᴱ Deutsches Musik HD°
-http://liv3e.click:80/4587917767/4587917767/73563
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Donau TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Donau TV HD°
-http://liv3e.click:80/4587917767/4587917767/73562
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ EBS  Kanal 2 HD°" tvg-logo="" group-title="Germany",ᴰᴱ EBS  Kanal 2 HD°
-http://liv3e.click:80/4587917767/4587917767/73559
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ EBS Kanal 1 HD°" tvg-logo="" group-title="Germany",ᴰᴱ EBS Kanal 1 HD°
-http://liv3e.click:80/4587917767/4587917767/73558
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ erzTV Erzgebirge HD°" tvg-logo="" group-title="Germany",ᴰᴱ erzTV Erzgebirge HD°
-http://liv3e.click:80/4587917767/4587917767/73555
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Fashion TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Fashion TV HD°
-http://liv3e.click:80/4587917767/4587917767/73550
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Folx TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Folx TV HD°
-http://liv3e.click:80/4587917767/4587917767/73545
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Health TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Health TV HD°
-http://liv3e.click:80/4587917767/4587917767/73540
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ HitArena NRW TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ HitArena NRW TV HD°
-http://liv3e.click:80/4587917767/4587917767/73538
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Isar-TV Landshut HD°" tvg-logo="" group-title="Germany",ᴰᴱ Isar-TV Landshut HD°
-http://liv3e.click:80/4587917767/4587917767/73536
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Kronehit TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Kronehit TV HD°
-http://liv3e.click:80/4587917767/4587917767/73534
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Light Channel HD°" tvg-logo="" group-title="Germany",ᴰᴱ Light Channel HD°
-http://liv3e.click:80/4587917767/4587917767/73530
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ MTV HD°" tvg-logo="" group-title="Germany",ᴰᴱ MTV HD°
-http://liv3e.click:80/4587917767/4587917767/73522
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Muenchen TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Muenchen TV HD°
-http://liv3e.click:80/4587917767/4587917767/73521
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ MusicTop HD°" tvg-logo="" group-title="Germany",ᴰᴱ MusicTop HD°
-http://liv3e.click:80/4587917767/4587917767/73520
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Musik Dream TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Musik Dream TV HD°
-http://liv3e.click:80/4587917767/4587917767/73519
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Musik One 2 HD°" tvg-logo="" group-title="Germany",ᴰᴱ Musik One 2 HD°
-http://liv3e.click:80/4587917767/4587917767/73518
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Musik One HD°" tvg-logo="" group-title="Germany",ᴰᴱ Musik One HD°
-http://liv3e.click:80/4587917767/4587917767/73517
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ naheTV HD°" tvg-logo="" group-title="Germany",ᴰᴱ naheTV HD°
-http://liv3e.click:80/4587917767/4587917767/73516
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ NDR Hamburg HD°" tvg-logo="" group-title="Germany",ᴰᴱ NDR Hamburg HD°
-http://liv3e.click:80/4587917767/4587917767/73515
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ NDR Mecklenburg-Vorpommern HD°" tvg-logo="" group-title="Germany",ᴰᴱ NDR Mecklenburg-Vorpommern HD°
-http://liv3e.click:80/4587917767/4587917767/73514
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ NDR Niedersachsen HD°" tvg-logo="" group-title="Germany",ᴰᴱ NDR Niedersachsen HD°
-http://liv3e.click:80/4587917767/4587917767/73513
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ NDR Schleswig-Holstein HD°" tvg-logo="" group-title="Germany",ᴰᴱ NDR Schleswig-Holstein HD°
-http://liv3e.click:80/4587917767/4587917767/73512
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Nice Mix TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Nice Mix TV HD°
-http://liv3e.click:80/4587917767/4587917767/73510
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ NiceF TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ NiceF TV HD°
-http://liv3e.click:80/4587917767/4587917767/73511
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ noa4 Hamburg HD°" tvg-logo="" group-title="Germany",ᴰᴱ noa4 Hamburg HD°
-http://liv3e.click:80/4587917767/4587917767/73509
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ noa4 Norderstedt HD°" tvg-logo="" group-title="Germany",ᴰᴱ noa4 Norderstedt HD°
-http://liv3e.click:80/4587917767/4587917767/73508
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Nrwision HD°" tvg-logo="" group-title="Germany",ᴰᴱ Nrwision HD°
-http://liv3e.click:80/4587917767/4587917767/73506
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Oberpfalz TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Oberpfalz TV HD°
-http://liv3e.click:80/4587917767/4587917767/73505
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Ócko Star HD°" tvg-logo="" group-title="Germany",ᴰᴱ Ócko Star HD°
-http://liv3e.click:80/4587917767/4587917767/73503
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ OE24.TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ OE24.TV HD°
-http://liv3e.click:80/4587917767/4587917767/73502
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ OK4 Koblenz HD°" tvg-logo="" group-title="Germany",ᴰᴱ OK4 Koblenz HD°
-http://liv3e.click:80/4587917767/4587917767/73500
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ OK54 Trier HD°" tvg-logo="" group-title="Germany",ᴰᴱ OK54 Trier HD°
-http://liv3e.click:80/4587917767/4587917767/73499
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Phoenix HD°" tvg-logo="" group-title="Germany",ᴰᴱ Phoenix HD°
-http://liv3e.click:80/4587917767/4587917767/73494
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Pilatus Beatz TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Pilatus Beatz TV HD°
-http://liv3e.click:80/4587917767/4587917767/73493
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Radio Contact HD°" tvg-logo="" group-title="Germany",ᴰᴱ Radio Contact HD°
-http://liv3e.click:80/4587917767/4587917767/73490
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Radio Studio Brussell HD°" tvg-logo="" group-title="Germany",ᴰᴱ Radio Studio Brussell HD°
-http://liv3e.click:80/4587917767/4587917767/73489
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RBW Regional Bitterfeld Wolfen HD°" tvg-logo="" group-title="Germany",ᴰᴱ RBW Regional Bitterfeld Wolfen HD°
-http://liv3e.click:80/4587917767/4587917767/73482
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Regio TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Regio TV HD°
-http://liv3e.click:80/4587917767/4587917767/73480
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Retro Music TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ Retro Music TV HD°
-http://liv3e.click:80/4587917767/4587917767/73479
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RFH Regional Harz HD°" tvg-logo="" group-title="Germany",ᴰᴱ RFH Regional Harz HD°
-http://liv3e.click:80/4587917767/4587917767/73478
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RFO HD°" tvg-logo="" group-title="Germany",ᴰᴱ RFO HD°
-http://liv3e.click:80/4587917767/4587917767/73477
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ RNF HD°" tvg-logo="" group-title="Germany",ᴰᴱ RNF HD°
-http://liv3e.click:80/4587917767/4587917767/73474
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sonus FM TV HD°(visual Radio) HD°" tvg-logo="" group-title="Germany",ᴰᴱ Sonus FM TV HD°(visual Radio) HD°
-http://liv3e.click:80/4587917767/4587917767/73471
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Südwestpfalz HD°" tvg-logo="" group-title="Germany",ᴰᴱ Südwestpfalz HD°
-http://liv3e.click:80/4587917767/4587917767/73466
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Sylt 1 HD°" tvg-logo="" group-title="Germany",ᴰᴱ Sylt 1 HD°
-http://liv3e.click:80/4587917767/4587917767/73462
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Tagesschau 24 HD°" tvg-logo="" group-title="Germany",ᴰᴱ Tagesschau 24 HD°
-http://liv3e.click:80/4587917767/4587917767/73461
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Tele Regional Passau HD°" tvg-logo="" group-title="Germany",ᴰᴱ Tele Regional Passau HD°
-http://liv3e.click:80/4587917767/4587917767/73460
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 1 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 1 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73422
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 2 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 2 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73421
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 3 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 3 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73420
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 4 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 4 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73419
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 5 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 5 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73418
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 6 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 6 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73417
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 7 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 7 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73416
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Basketball 8 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Basketball 8 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73415
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 1 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 1 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73429
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 2 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 2 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73428
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 3 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 3 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73427
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 4 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 4 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73426
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 5 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 5 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73425
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 6 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 6 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73424
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Eishockey 7 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Eishockey 7 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73423
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 1 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 1 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73437
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 2 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 2 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73436
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 3 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 3 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73435
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 4 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 4 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73434
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 5 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 5 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73433
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 6 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 6 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73432
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 7 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 7 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73431
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Telekom Fussball 8 FHD°[Live During Events Only]" tvg-logo="" group-title="Germany",ᴰᴱ Telekom Fussball 8 FHD°[Live During Events Only]
-http://liv3e.click:80/4587917767/4587917767/73430
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD° Aktuell Ostbayern" tvg-logo="" group-title="Germany",ᴰᴱ TV HD° Aktuell Ostbayern
-http://liv3e.click:80/4587917767/4587917767/73457
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD° Mainfranken Würzburg" tvg-logo="" group-title="Germany",ᴰᴱ TV HD° Mainfranken Würzburg
-http://liv3e.click:80/4587917767/4587917767/73452
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD° Oberfranken" tvg-logo="" group-title="Germany",ᴰᴱ TV HD° Oberfranken
-http://liv3e.click:80/4587917767/4587917767/73451
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD°A  für Ostbayern HD°" tvg-logo="" group-title="Germany",ᴰᴱ TV HD°A  für Ostbayern HD°
-http://liv3e.click:80/4587917767/4587917767/73455
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD°M3 HD°" tvg-logo="" group-title="Germany",ᴰᴱ TV HD°M3 HD°
-http://liv3e.click:80/4587917767/4587917767/73454
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ TV HD°Würzburg HD°" tvg-logo="" group-title="Germany",ᴰᴱ TV HD°Würzburg HD°
-http://liv3e.click:80/4587917767/4587917767/73456
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ U TV HD°" tvg-logo="" group-title="Germany",ᴰᴱ U TV HD°
-http://liv3e.click:80/4587917767/4587917767/73449
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ U1 Tirol/ Tiroler Heimat HD°" tvg-logo="" group-title="Germany",ᴰᴱ U1 Tirol/ Tiroler Heimat HD°
-http://liv3e.click:80/4587917767/4587917767/73448
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ Welt HD°" tvg-logo="" group-title="Germany",ᴰᴱ Welt HD°
-http://liv3e.click:80/4587917767/4587917767/73444
-#EXTINF:-1 tvg-id="" tvg-name="ᴰᴱ ZDF Info HD°" tvg-logo="" group-title="Germany",ᴰᴱ ZDF Info HD°
-http://liv3e.click:80/4587917767/4587917767/73439
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ GENEL ▅ ▄ ▂ ▁" tvg-logo="" group-title="Turkey",▁ ▂ ▄ ▅ GENEL ▅ ▄ ▂ ▁
 http://liv3e.click:80/4587917767/4587917767/58117
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 FHD" tvg-logo="https://laredocordcutters.com/logos/tiv2/trt1hd.png" group-title="Turkey",TRT 1 FHD
